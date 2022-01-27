@@ -3,7 +3,7 @@ import MembersList from '../MembersList/MembersList';
 import SearchName from '../SearchName/SearchName';
 import SearchAct from '../SearchAct/SearchAct';
 
-import Card from 'react-bootstrap/Card';
+
 
 
 import { mockData } from "../../data";
